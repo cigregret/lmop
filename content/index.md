@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Index
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the LMOP+Wiki! Written entirely by Dungeon Master cigregret about the world of Fae'run
