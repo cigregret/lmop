@@ -1,7 +1,7 @@
 ---
-title: '"MGs"'
+title: MGs
 draft: false
-tags: []
+tags:
 ---
 
 **MGs**, full name 5mgBlueP, is a dwarf with druidic tendencies. Hailing from [[Neverwinter]], he became a [[Lord's Alliance#Organization|Crow]] in the [[Lord's Alliance]] with the intent of preserving natural landmarks during his missions. This is thought to be in response to one of the few criticisms of the [[Lord's Alliance]], being that even when they succeed in bringing economic prosperity to a region, they do so with a blatant disregard for the safety of the environment, and sometimes even nearby civilians. 

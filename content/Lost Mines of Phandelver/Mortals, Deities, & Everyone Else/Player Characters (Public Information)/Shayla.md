@@ -1,7 +1,7 @@
 ---
-title: '"Shayla"'
+title: Shayla
 draft: false
-tags: []
+tags:
 ---
 
 **Shayla** is a [[Half-Elf|half-elf]] with rouge-ish tendencies. Hailing from [[Waterdeep]], she is a [[Lord's Alliance#Organization|Crow]] of the [[Lord's Alliance]] and is rumored to be the adoptive daughter of [[Sildar Hallwinter]]. Little information is factually known about her, besides that **"Shayla"** is not her real name. 

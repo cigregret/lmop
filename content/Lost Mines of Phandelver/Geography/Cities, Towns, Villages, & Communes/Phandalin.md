@@ -1,7 +1,7 @@
 ---
-title: '"Phandalin"'
+title: Phandalin
 draft: false
-tags: []
+tags:
 ---
 
 ### Basic History

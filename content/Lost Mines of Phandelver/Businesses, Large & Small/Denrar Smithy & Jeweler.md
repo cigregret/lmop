@@ -1,7 +1,7 @@
 ---
-title: '"Denrar Smithy & Jeweler"'
+title: Denrar Smithy & Jeweler
 draft: false
-tags: []
+tags:
 ---
 
 A joint smithy and jeweler shop in [[Phandalin]], run by the [[Dwarf|dwarven]] couple Thel and Mirna Denrar. Thel and Mirna Denrar are the blacksmith and jeweler, respectively. 

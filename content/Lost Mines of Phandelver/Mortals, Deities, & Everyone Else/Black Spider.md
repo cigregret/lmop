@@ -1,7 +1,7 @@
 ---
-title: '"Black Spider"'
+title: Black Spider
 draft: false
-tags: []
+tags:
 ---
 
 A mysterious villain who gives orders to [[Iarno 'Glasstaff' Albrek]], leader of the [[Redbrands]], and [[King Grol]] of the [[Cragmaw Tribe]]. They are interested in the location of [[Wave Echo Cave]], and have ordered the kidnapping of [[Gundren Rockseeker]] to monopolize this knowledge. 

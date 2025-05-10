@@ -1,7 +1,7 @@
 ---
-title: '"Stonehill Inn & Tavern"'
+title: Stonehill Inn & Tavern
 draft: false
-tags: []
+tags:
 ---
 
 The **Stonehill Inn & Tavern** is a two-story building located in [[Phandalin]]. The first floor, which has no doors and is open to the [[Phandalin]] town square, is the tavern. The second floor, accessible only by a single staircase next to the tavern's bar, is a small inn with eight rooms.

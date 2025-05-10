@@ -1,7 +1,7 @@
 ---
-title: '"Archibald"'
+title: Archibald
 draft: false
-tags: []
+tags:
 ---
 
 human pally pc

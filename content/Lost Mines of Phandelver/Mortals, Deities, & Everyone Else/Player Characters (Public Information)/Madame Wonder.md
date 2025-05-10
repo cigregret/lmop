@@ -1,7 +1,7 @@
 ---
-title: '"Madame Wonder"'
+title: Madame Wonder
 draft: false
-tags: []
+tags:
 ---
 
 A [[Tiefling|tiefling]], and formerly a well-known gladiator of the [[Baldur's Gate Grand Arena]]. She was removed from the arena and barred from competition due her casting an eldritch blast on a human barbarian. It is unknown why she performed such an action, but to publicly showcase any powers given via warlock contract with a deity is clear reason to be barred from gladiatorial competitions. 

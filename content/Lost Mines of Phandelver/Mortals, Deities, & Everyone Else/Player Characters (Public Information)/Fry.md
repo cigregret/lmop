@@ -1,7 +1,7 @@
 ---
-title: '"Fry"'
+title: Fry
 draft: false
-tags: []
+tags:
 ---
 
 A dwarf cleric mercenary now traveling with [[party name]], he hails from the island of [[Mintarn]] in the [[Moonshae Isles]]. Unlike others in [[party name]], due to his military background and being a member of the [[Moonshae Mercenary Corporation]], his history is well-documented. After training on Mintarn, he traveled to [[Neverwinter]] to serve in the army and city watch as a newly created outreach branch of the [[Moonshae Mercenary Corporation|MMC]]. Over time, he reportedly grew disillusioned with militaristic hierarchy and systems. This culminated in letting a human die seemingly out of spite, causing [[Moonshae Mercenary Corporation|MMC]] to discharge him. 

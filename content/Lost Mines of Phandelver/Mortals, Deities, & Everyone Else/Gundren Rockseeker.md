@@ -1,7 +1,7 @@
 ---
-title: '"Gundren Rockseeker"'
+title: Gundren Rockseeker
 draft: false
-tags: []
+tags:
 ---
 
 The co-founder and current head of operations at [[Rockseeker Brothers Inc.]], and one of the famous [[Rockseeker Brothers]] (along with his younger brothers [[Tharden Rockseeker|Tharden]] and [[Nundro Rockseeker|Nundro]]). His specialty within the business is his outgoing and social nature that stands in stark contrast of his master crafter brothers. This makes him the perfect candidate to lead the company, while his brothers focus on their strengths that allow the company to grow.
