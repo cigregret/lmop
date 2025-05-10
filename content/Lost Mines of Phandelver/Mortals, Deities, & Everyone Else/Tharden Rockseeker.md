@@ -1,0 +1,9 @@
+---
+title: '"Tharden Rockseeker"'
+draft: false
+tags: []
+---
+
+Middle brother of the [[Rockseeker Brothers]]. Head of specialty construction at [[Rockseeker Brothers Inc.]], and has always had a great interest in taking on challenging renovations of entire abandoned castles or manors. Much quieter than the other two, spends most of his time drawing up architectural plans and house designs that no buyer would appreciate properly.
+
+Disappeared from his temporary residence in [[Phandalin]] along with his younger brother [[Nundro Rockseeker|Nundro]] before [[Gundren Rockseeker]] and [[Sildar Hallwinter]] were kidnapped just outside of town. Was last seen in an argument with [[Redbrands]].
