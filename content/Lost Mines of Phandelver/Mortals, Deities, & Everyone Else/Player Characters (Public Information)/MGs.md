@@ -11,7 +11,4 @@ In his interview to be a [[Lord's Alliance#Organization|Crow]], he stated that h
 Most recently **MGs** has been dispatched by the [[Lord's Alliance]] to [[Phandalin]], along with [[Shayla]] and [[Sildar Hallwinter]]. The reported purpose of this mission is to assist [[Gundren Rockseeker]] of [[Rockseeker Brothers Inc.]] in reopening the [[Forge of Spells]], assumedly with the intent of bringing economic prosperity to the central [[Sword Coast]].
 
 
-### Rumors
-It is rumored that **MGs** utilizes their druidic power as a form of necromancy, despite his insistence on the value of life. These powers are not yet documented by trustworthy sources.
-
 Nothing else is known about him at this time.

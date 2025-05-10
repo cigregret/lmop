@@ -10,5 +10,3 @@ Not much is known about her besides her gladiator past. It has been confirmed th
 
 Throughout her time in [[Phandalin]], **Madame Wonder**, [[Archibald]], and [[Fry]] have managed to accomplish several great feats, including saving [[Sildar Hallwinter]] from a goblin den and putting an end to the [[Redbrands]] terrorizing [[Phandalin]]. She is known to be the flashy and performative member of the group, yet upon returning from the [[Redbrands]]' hideout she reportedly grew quieter and more solemn.
 
-### Rumors
-It is rumored that **Madame Wonder** has a contract with some great deity of nefarious origin. Due to her being a [[Tiefling|tiefling]], rumor states that her patron must be a [[Fiend]]. Others contradict this claim, as recently she has been spotted with a grotesque, shadowy shortsword. This sword has been the source of many rumors, most of which agree that her pact must be with the [[Raven Queen]] of the [[Shadowfell]]. All that is known for sure about this sword is its name: [[Blade of Chained Shadows]]. 
