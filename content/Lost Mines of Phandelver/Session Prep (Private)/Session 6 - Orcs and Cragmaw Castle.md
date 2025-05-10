@@ -1,5 +1,5 @@
 ---
-title: '"Session 6 - Orcs and Cragmaw Castle"'
+title: Session 6 - Orcs and Cragmaw Castle
 draft: true
 tags:
 ---

@@ -1,7 +1,7 @@
 ---
-title: '"Session 3 - Siege on the Redbrand Hideout"'
+title: Session 3 - Siege on the Redbrand Hideout
 draft: false
-tags: []
+tags:
 ---
 
 IRL Date: May 4, 2025

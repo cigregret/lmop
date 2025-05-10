@@ -1,7 +1,7 @@
 ---
-title: '"Session 2 - Goblin Hideout & Sildar Hallwinter"'
+title: Session 2 - Goblin Hideout & Sildar Hallwinter
 draft: false
-tags: []
+tags:
 ---
 
 IRL Date: May 3, 2025

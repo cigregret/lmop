@@ -1,7 +1,7 @@
 ---
-title: '"Sildar Hallwinter"'
+title: Sildar Hallwinter
 draft: false
-tags: []
+tags:
 ---
 
 Also known as **Sildar the Chosen**

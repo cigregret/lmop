@@ -1,5 +1,5 @@
 ---
-title: '"Shadowfell"'
+title: Shadowfell
 draft: true
 tags:
 ---

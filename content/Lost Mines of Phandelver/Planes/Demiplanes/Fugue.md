@@ -1,5 +1,5 @@
 ---
-title: '"Fugue"'
+title: Fugue
 draft: true
 tags:
 ---

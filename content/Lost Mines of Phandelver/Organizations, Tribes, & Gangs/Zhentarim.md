@@ -1,3 +1,9 @@
+---
+title: Zhentarim
+draft: false
+tags:
+---
+
 Also known as the **Black Network**
 
 A more nefarious counterpart to the [[Lord's Alliance]], the **Zhentarim** is a mercenary and greater mercantile company within the [[Material Plane]]. However, its members tend to air on the side of mercenary than merchant, consisting strongly of thieves, assassins, spies, and malevolent wizards. Throughout the years, members have been contracted to serve dark gods like [[Bane]] and [[Cyric]]. Unlike the [[Lord's Alliance]], the **Zhentarim** has a headquarters located within the [[Western Heartlands]] at [[Darkhold Castle]].

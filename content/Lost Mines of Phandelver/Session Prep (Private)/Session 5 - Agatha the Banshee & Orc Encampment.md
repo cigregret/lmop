@@ -1,5 +1,5 @@
 ---
-title: '"Session 5 - Agatha the Banshee & Orc Encampment"'
+title: Session 5 - Agatha the Banshee & Orc Encampment
 draft: true
 tags:
 ---

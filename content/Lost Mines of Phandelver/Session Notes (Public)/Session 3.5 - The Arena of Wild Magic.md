@@ -1,7 +1,7 @@
 ---
-title: '"Session 3.5 - The Arena of Wild Magic"'
+title: Session 3.5 - The Arena of Wild Magic
 draft: false
-tags: []
+tags:
 ---
 
 IRL Date: May 7th, 2025

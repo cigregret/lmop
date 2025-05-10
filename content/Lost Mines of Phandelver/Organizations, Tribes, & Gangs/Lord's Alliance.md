@@ -1,3 +1,9 @@
+---
+title: Lord's Alliance
+draft: false
+tags:
+---
+
 The **Lords' Alliance**, also known as the **Council of Lords**, is a partnership of merchant cities founded in the early 14th century. Its most notable members are from the [[Sword Coast]], the [[North Heartlants|North]], and the [[Western Heartlands]], including [[Waterdeep]], [[Silverymoon]], [[Neverwinter]], and [[Baldur's Gate]], as well as other free cities and towns in the region. The organization was originally formed to oppose the growing influence of the [[Zhentarim|Black Network]] and [[Shadow Thieves]] in the [[North]], yet now seems to focus more on its merchant roots and pursue dreams of economic prosperity and class eradication.
 
 "For a century and a half, and more, the **Lords' Alliance** has stood as the most important and influential group in the [[North]]. Its power has kept towns safe from the predations of larger powers, has kept the ambitions of [[Luskan]] in check, and has taught the rulers of many cities that it is better to cooperate, even for a time, then to merely shut one's doors and allow the storms to rage outside."

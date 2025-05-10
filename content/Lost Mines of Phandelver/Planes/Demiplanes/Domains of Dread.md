@@ -1,5 +1,5 @@
 ---
-title: '"Domains of Dread"'
+title: Domains of Dread
 draft: true
 tags:
 ---

@@ -1,7 +1,7 @@
 ---
-title: '"Session 4 - Retrieval of Iarno Albrek"'
+title: Session 4 - Retrieval of Iarno Albrek
 draft: false
-tags: []
+tags:
 ---
 
 IRL Date: May 7th, 2025

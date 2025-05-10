@@ -1,7 +1,7 @@
 ---
-title: '"Session 1 - The Lost Mines of Phandelver"'
+title: Session 1 - The Lost Mines of Phandelver
 draft: false
-tags: []
+tags:
 ---
 
 IRL Date: May 1, 2025

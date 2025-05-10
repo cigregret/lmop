@@ -1,7 +1,7 @@
 ---
-title: '"Open Lord Laeral Silverhand"'
+title: Open Lord Laeral Silverhand
 draft: false
-tags: []
+tags:
 ---
 
 **Deceased**
