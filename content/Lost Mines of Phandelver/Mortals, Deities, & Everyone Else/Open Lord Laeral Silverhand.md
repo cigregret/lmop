@@ -1,6 +1,6 @@
 ---
 title: Open Lord Laeral Silverhand
-draft: false
+draft: true
 tags:
 ---
 
