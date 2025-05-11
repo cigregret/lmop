@@ -19,4 +19,4 @@ Most buildings in **Phandalin** are in use, but spotted ruins remind residents a
 
 
 ### Population & Culture
-The population of **Phandalin** is notably evenly split amongst gnomes, dwarves, and humans. They live in relative harmony with one another, and hold a shared culture unlike larger cities such as [[Neverwinter]], [[Waterdeep]], or [[Baldur's Gate]], where races and species firmly hold on to the culture from their homelands. Instead, the culture of **Phandalin** is built strongly on the mining history of the area, and the appreciation of all roles in their society that allows for their unique self-sufficiency. 
+The population of **Phandalin** is notably evenly split amongst gnomes, dwarves, and humans. They live in relative harmony with one another, and hold a shared culture unlike larger cities such as [[Neverwinter]], [[Waterdeep]], or [[Baldur's Gate]], where races and species firmly hold on to the culture from their homelands. Instead, the culture of **Phandalin** is built strongly on the mining history of the area, and the appreciation of all roles in their society that allows for their unique self-sufficiency.
