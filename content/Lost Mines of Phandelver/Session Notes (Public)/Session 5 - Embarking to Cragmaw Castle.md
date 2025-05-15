@@ -155,7 +155,7 @@ After ALL of that reading and fun little roleplay, everyone was awake as [[Silda
 
 #### Shrine of Luck
 
-	As you all walk across Phandalin's main square, you notice that the hum of daily life is stronger today. Glancing around, you see smiles on more people's faces, perhaps due to the news spreading of the Redbrand's defeat. As you approach the Shrine of Luck, a small cistern glittering with copper and silver coins, you notice that Sister Garaele is talking with someone.
+As you all walk across Phandalin's main square, you notice that the hum of daily life is stronger today. Glancing around, you see smiles on more people's faces, perhaps due to the news spreading of the Redbrand's defeat. As you approach the Shrine of Luck, a small cistern glittering with copper and silver coins, you notice that Sister Garaele is talking with someone.
 
 
 [[Sister Garaele]] congratulated the party on their subjugation of the [[Redbrands]], and asked the party if they were able to handle her request concerning [[Agatha]] and Bowgentle's legendary spellbook. The [[Phandalin Fellows]], perhaps lost in their exaustion and the extreme circumstances as of late, reminded the party of the jeweled comb in their possession and only asked for them to ask [[Agatha]] of the spellbook's location. She urged for them to use proper manners and remain extremely polite in [[Agatha]]'s presence for their safety, and promised several "strong" healing items in return as well as possible future requests. 
@@ -171,9 +171,9 @@ Afterwards, they made their way on over to [[Denrar Smithy & Jeweler]] to get ne
 [[Madame Wonder]] - Feather Coin x3
 [[Shayla]] - Cloak of Elvenkind
 
-	"Oh, and fer the two goblins ehhh, lemme see...
-				*rummages around a bit*
-	 'ere's a billowin' cloak. Two goblins one trench, 'eh?"
+"Oh, and fer the two goblins ehhh, lemme see...
+	*rummages around a bit*
+'ere's a billowin' cloak. Two goblins one trench, 'eh?"
 
 **[[Doormat]] & [[Droop]] - (one) Cloak of Billowing**
 
