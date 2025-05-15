@@ -5,14 +5,12 @@ tags:
 ---
 
 IRL Date: May 7th, 2025
-In-Universe Date: Flamerule 27, 1691
+In-Universe Date: Flamerule 25, 1691
 Present Members:
 - [[Fry]]
 - [[Archibald]]
 - [[Madame Wonder]]
 - [[Shayla]]
-
-### Session Detailed Overview
 
 
 ### Session Short Overview
@@ -27,3 +25,7 @@ Present Members:
 	- She is after the [[Forge of Spells]], which has the potential to produce enough magic weapons for several legions
 	- [[Madame Wonder]] was given [[Iarno 'Glasstaff' Albrek]]'s staff of defense that he was nicknamed after
 - Upon seeing [[Iarno 'Glasstaff' Albrek]] and learning of his crimes, [[Sildar Hallwinter]] began exuding an entirely unfamiliar aura; one of discipline, command, and cold, calculated morality. In a slash faster than any of our heroes could witness, [[Iarno 'Glasstaff' Albrek]] was decapitated by [[Sildar Hallwinter]]. The flames in [[Sildar Hallwinter]]'s eyes began to burn brighter than witnessed by any living person, as he brought his foot down on top of [[Iarno 'Glasstaff' Albrek]]'s skull, crushing it with one step. The party was then paid an additional 100 gold each for retrieving the criminal alive, bringing each person's dividend to 300 gold. However, money was the last thing on our adventurer's minds as [[Sildar Hallwinter]] walked them back to the [[Stonehill Inn & Tavern]], seemingly a different person than he was several minutes prior. Laughing at details of the heroes journey through the cellar, the only thing the party could think about was was one question: Who exactly is [[Sildar Hallwinter|Sildar the Chosen]]?
+
+
+### Session Detailed Overview
+

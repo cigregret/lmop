@@ -5,13 +5,11 @@ tags:
 ---
 
 IRL Date: May 3, 2025
-In-Universe Date: Flamerule 26, 1691
+In-Universe Date: Flamerule 24, 1691
 Present Members:
 [[Fry]]
 [[Madame Wonder]]
 [[Archibald]]
-
-### Session Detailed Overview
 
 
 ### Session Short Overview
@@ -35,3 +33,7 @@ Present Members:
 	- Need a carriage to bring stolen supplies back, could get paid to do so
 - Made their way back to [[Phandalin]] with [[Sildar Hallwinter]], who told them that he is from the [[Lord's Alliance]] and will send for backup from [[Waterdeep]]. Also informed them that [[Gundren Rockseeker]] was taken to [[Cragmaw Tribe]]
 - Party returned to [[Stonehill Inn & Tavern]] and went to bed
+
+
+### Session Detailed Overview
+

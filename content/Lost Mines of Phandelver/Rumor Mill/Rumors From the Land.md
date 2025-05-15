@@ -4,10 +4,10 @@ draft: true
 tags:
 ---
 ### Fry
-Around the same time **Fry** vanished, rumors began to circulate of a legendary dwarven smithy within a druidic circle, one that could use even the smallest amounts of metal to create magical tools and equipment. These rumors remained so for decades, sparking the name [[The Smithy of Nature's Bounty]]. This smithy was supposedly located within the [[Kryptgarden Forest]] near the [[Sword Mountains]], protected by a druidic circle hiding within the natural landscape. Many attempted to find such a smithy, yet none succeeded. 
+Around the same time **Fry** vanished from the Neverwinter Defense Force, rumors began to circulate of a legendary dwarven smithy within a druidic circle, one that could use even the smallest amounts of metal to create magical tools and equipment. These rumors remained so for decades, sparking the name [[The Smithy of Nature's Bounty]]. This smithy was supposedly located within the [[Kryptgarden Forest]] near the [[Sword Mountains]], protected by a druidic circle hiding within the natural landscape. Many attempted to find such a smithy, yet none succeeded. It is suspected by our sources that the dwarf known as Fry 
 
 ### Madame Wonder
-It is rumored that **Madame Wonder** has a contract with some great deity of nefarious origin. Due to her being a [[Tiefling|tiefling]], rumor states that her patron must be a [[Fiend]]. Others contradict this claim, as recently she has been spotted with a grotesque, shadowy shortsword. This sword has been the source of many rumors, most of which agree that her pact must be with the [[Raven Queen]] of the [[Shadowfell]]. All that is known for sure about this sword is its name: [[Blade of Chained Shadows]]. 
+It is rumored that **Madame Wonder** has a contract with some great deity of nefarious origin. Due to her being a [[Tiefling|tiefling]], rumor states that her patron must be a [[Fiend]]. This claim is later contradicted by newer rumors, as recently she has been spotted with a grotesque, shadowy shortsword. This sword has been the source of many rumors, most of which agree that her pact must be with the [[Raven Queen]] of the [[Shadowfell]]. All that is known for sure about this sword is its name: [[Blade of Chained Shadows]]. 
 
 ### MGs
 It is rumored that **MGs** utilizes their druidic power as a form of necromancy, despite his insistence on the value of life. These powers are not yet documented by trustworthy sources.

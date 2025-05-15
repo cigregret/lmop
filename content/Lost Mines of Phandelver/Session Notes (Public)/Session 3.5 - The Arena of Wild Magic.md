@@ -5,13 +5,10 @@ tags:
 ---
 
 IRL Date: May 7th, 2025
-In-Universe Date: Flamerule 27, 1691
+In-Universe Date: Flamerule 25, 1691
 Present Members:
 - [[Madame Wonder]]
 - [[MGs]]
-
-### Session Detailed Overview
-
 
 
 ### Session Short Overview
@@ -33,3 +30,7 @@ Present Members:
 - The announcer reappeared as the gas settled, standing where the dragon was. He then cast planeshift to send them back to the [[Material Plane]], but not before stating the following:
 	- *"Should you wish to return and fight for rewards, you need only call my name: [[Cerise]], Ringleader of the [[Arena of Wild Magic]]. Call my name and I will arrive to whisk you away at a moments notice."*
 - They then found themselves back in the woods, hours after they entered the Feywilde. They had herbs, brown mushrooms, and turkeys in hand, and thus decided to just head back to [[Gunther]]. After making their way back to the tavern, [[Gunther]] explains that he had food the whole time and just was playing a prank on them, before putting out two bowls of pho for them both.
+
+
+### Session Detailed Overview
+

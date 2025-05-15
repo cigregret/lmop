@@ -5,13 +5,13 @@ tags:
 ---
 
 IRL Date: May 1, 2025
-In-Universe Date: Flamerule 25, 1691
+In-Universe Date: Flamerule 23, 1691
 Present Members:
 [[Fry]]
 [[Madame Wonder]]
 [[Archibald]]
 
-### Background
+### Initial Campaign Background
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the [[Phandelver's Pact]], by which they would share a rich mine in a wondrous cavern known as [[Wave Echo Cave]]. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the [[Forge of Spells]]), where magic items could be crafted. Times were good, and the nearby human town of [[Phandalin]] (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
 
 A powerful force of orcs reinforced by evil mercenary wizards attacked [[Wave Echo Cave]] to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the [[Forge of Spells]], and the ensuing spell battle destroyed much of the cavern. Few survived the cave-ins and tremors, and the location of [[Wave Echo Cave]] was lost.
@@ -20,6 +20,19 @@ For centuries, rumors of buried riches have attracted treasure seekers and oppor
 
 Unfortunately for the [[Rockseeker Brothers|Rockseekers]], they are not the only ones interested in [[Wave Echo Cave]]. A mysterious villain known as the [[Black Spider]] controls a network of bandit gangs and goblin tribes in the area, and their agents have followed the [[Rockseeker Brothers|Rockseekers]] to their prize. Now the [[Black Spider]] wants [[Wave Echo Cave]] for themself, and they are taking steps to make sure no one else knows where it is.
 
+
+### Session Short Overview
+- Delivering supplies from [[Baldur's Gate]] to [[Phandalin]] for [[Gundren Rockseeker]]
+- Ambushed by goblins
+- Kidnapped and renamed [[Doormat]]
+- Learned that 'a dwarf' was kidnapped by the goblins and taken to [[Cragmaw Castle]]
+- Learned of the hideout that [[Doormat]] originally came from
+- Made it to [[Phandalin]], met [[Toblen Stonehill]] and proceeded to lace him with salvia
+- [[Fry]] & [[Madame Wonder]] delivered supplies to [[Barthen's Provisions]]
+- [[Archibald]] met [[Gunther]] to convince him to allow chessboxing with [[Doormat]] in the tavern
+- Proceeded to make initial coin by hosting chessboxing competition of challenger v. [[Doormat]]
+- Had initial encounter with [[Redbrands]] during chessboxing
+- Learned more about the [[Redbrands]] from [[Gunther]] before going to bed
 
 
 ### Session Detailed Overview
@@ -41,17 +54,3 @@ The mysterious bald man puts down a hefty sum of 35 gold, and begins to play. [[
 
 As the energy and population in the tavern starts to dwindle in the late hours of the night, [[Fry]] asks [[Gunther]] if he knew who any of those men were. [[Gunther]] then explains to the party that [[Phandalin]] has a problem with a human gang known as the [[Redbrands]]. They rob local businesses, kidnap children, and yet have remained unchecked by the townmaster, [[Harbin Wester]]. [[Gunther]] states that they frequent an old abandoned building on the east side of town, once called the [[Sleeping Giant Tavern]]. [[Fry]] thanks [[Gunther]] for the information, and the party goes upstairs to bed.
 
-
-
-### Session Short Overview
-- Delivering supplies from [[Baldur's Gate]] to [[Phandalin]] for [[Gundren Rockseeker]]
-- Ambushed by goblins
-- Kidnapped and renamed [[Doormat]]
-- Learned that 'a dwarf' was kidnapped by the goblins and taken to [[Cragmaw Castle]]
-- Learned of the hideout that [[Doormat]] originally came from
-- Made it to [[Phandalin]], met [[Toblen Stonehill]] and proceeded to lace him with salvia
-- [[Fry]] & [[Madame Wonder]] delivered supplies to [[Barthen's Provisions]]
-- [[Archibald]] met [[Gunther]] to convince him to allow chessboxing with [[Doormat]] in the tavern
-- Proceeded to make initial coin by hosting chessboxing competition of challenger v. [[Doormat]]
-- Had initial encounter with [[Redbrands]] during chessboxing
-- Learned more about the [[Redbrands]] from [[Gunther]] before going to bed

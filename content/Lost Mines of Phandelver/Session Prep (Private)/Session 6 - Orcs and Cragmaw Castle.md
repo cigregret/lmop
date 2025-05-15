@@ -3,6 +3,16 @@ title: Session 6 - Orcs and Cragmaw Castle
 draft: true
 tags:
 ---
+### Cragmaw Castle
+Use the PDF to run the [[Cragmaw Castle]] encounter. Noone there wants to make peace. Also run the Hobgoblin Hunting Party encounter (Page 35) as they finally leave, since they left their cart and horses behind.
+
+[[Gundren Rockseeker]] should be kept alive at all costs, fudge numbers if you have to but make it seem close as fuck. He will be alive but incapacitated once they return to the cart, not requiring any additional aid at the time (DC 10 Medicine Check). This leaves them free to travel to anywhere they would like before returning to [[Phandalin]]. He will wake up after the first long rest the party has.
+
+Afterwards, run any of the following two depending on where they want to go
+- orc encampment (roleplay)
+- agatha (roleplay)
+
+Save Thundertree to have a combat in the next session, along with whichever of the two isnt used. Fudge the locations if necessary, it doesnt really matter just be prepared to remake the maps. Jalin should enter in session 7, as an apprentice to the wise druid in thundertree, but if they are ready for this session then have her in the castle with gundren.
 
 
 ### Orc Encampment
@@ -13,7 +23,6 @@ if the party decides to walk up and talk, make them calm, educated, and intellig
 - [[MGs]]/[[Fry]] - dwarvish
 - [[Madame Wonder]] - 
 - [[Shayla]] - elvish+common hybrid
-- jalin - ???
 
 they NEVER look for a fight, even if the party starts it they spend all their actions to block/dodge and attempt reasoning with their attacker. use flavor to describe how missed hits are destroying their food, supplies, and tents.
 
@@ -31,3 +40,23 @@ if the party talks it out mid battle, the orcs will ask for repayment of persona
 
 #### Hunting Sidequest
 Either give one week of rations (7) per PC to the orcs, or go hunting for wild fowl, climaxing in an owlbear fight. the dead carcass should be brought back to the orc camp, after which [[Jukha]] will thank the adventurers for righting their wrongs, and invite them to return under peace next time. The quest is delayed until they NEED to come back post-Black Spider encounter at Wave Echo Cave to wrap up the moral dilemma presented at the end.
+
+
+### Agatha The Banshee
+Run the PDF as normal on Page 28. After they (hopefully) ask about the spellbook, have agatha show an uncanny interest in telling each of them their futures. however, unknown to them, all of their fortunes are fully public to all party members. dont have her state that prior to the deal being made. have her write a contract that clearly states this is only of her own interest and curiosity, and she has no ulterior motive for those as interesting as the party besides observing their journeys forth.
+
+Otherwise, run it as it is in the PDF (Page 28)
+
+Fortunes for each:
+
+#### Madame Wonder
+**A:** I could speak for centuries on the futility of resisting any orders and contracts made from or with Lady Death. I can only offer a warning you should heed to the utmost: a domain of dread is in your future, regardless of any possible preventions you may take. resistance will lead to only to eventual madness, as sure as the oceans waves will erode rocky beaches. When the time has come, tides rich with jealousy will drag you to the shadowfell to fight on the sky's floor. You can choose to either give up, or rekindle the humanity you believe to have lost throughout your troubled life. Just remember, child of ancient sin, your greatest adversary is always your own shadow: beware the inversion.
+
+#### Shayla
+**A:** a land you hold no distinct memory from, yet your true home nonetheless. a closed nation, set to never reopen their borders again. however, everyone must return home at some point, and the distant future may force you to be the catalyst of this conflict. It cannot be said whether this is for better or for worse, yet a forgotten power emanates from within those borders that could spell the destruction of Fae'run. the key to this plane's absolution lies within the mother of your poisoning. the skills she passed down will serve you best during your robbery of the solution. You must return home at some point, child of the elves; to both the home of your childhood, and the home of your poisoning. 
+
+#### Archibald
+**A:** The Angel of the Seven Heavens is a mystery to most, his stories lost to time. I used to know him well, perhaps even enough to call him friend; yet the betrayal done to him by his kin has caused the Grandfather of Dragons to not leave his home in centuries. when the mortal of your station forces the abuse of your own oath, you will be forced to seek out the Draco Paladin. Remember that Mount Celestia is not a place to tread lightly, and despite appearances the mortal is not your enemy. know this, if nothing else: the mortal's only difference to you is that his conquest was made black and white, while your strength comes from navigating the token gray of the Platinum Dragon.
+
+#### Fry
+**A:** the same islands are your original home, in the truest sense. Yet, you hold no such attachment for the forgotten archipelago. interesting... wise one, i cannot tell you much you do not already know: you are already acutely aware that you must return to make peace with the heretics of the justicemaker. i also cannot break the forgotten contracts you made with your past self: all i can truly say is that your old friends yet live, despite the flames of your nightmares. they will come to you in decades time, and it is then you will find your true purpose in the party of comrades old and new. know that these countrymen will remain loyal until your death. Wise one of the forge, your hammer could punch the very nail that saves this world, or seals the coffin of its conviction. Choose wisely.

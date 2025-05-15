@@ -5,16 +5,13 @@ tags:
 ---
 
 IRL Date: May 4, 2025
-In-Universe Date: Flamerule 27, 1691
+In-Universe Date: Flamerule 25, 1691
 Present Members:
 [[Fry]]
 [[Madame Wonder]]
 [[Archibald]]
 [[Shayla]] (First Campaign Appearance!)
 [[MGs]] (First Campaign Appearance!)
-
-### Session Detailed Overview
-
 
 
 ### Session Short Overview
@@ -33,3 +30,8 @@ Present Members:
 	- [[Fry]] and [[MGs]] both rush to unlock the door with whatever means possible, freeing their racial kin and escorting them back to the cellar entrance where [[Doormat]] is standing guard. As the party regroups, they quickly have a run-in with the same unnatural force
 	- They learn this force to be a nothic; an aberration of a former wizard that learned secrets beyond its comprehension. They attempt to strike a deal with this nothic: several barrels of salted beef and pork in exchange for safe passage. After some deliberation, the nothic agrees to these terms.
 - The party, however, finds yet another secret door leading into a stairwell, which they choose to explore first. After finding the other secret door at the bottom, they open it to find a short, human male, with a dark beard, who is wearing a cloak with the [[Redbrands]]' insignia. As they open the door, this wizard jumps from his desk and casts mage armor on himself; surprised, yet nonetheless preparing for battle.
+
+
+
+### Session Detailed Overview
+
