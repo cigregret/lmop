@@ -4,7 +4,9 @@ draft: true
 tags:
 ---
 ### Cragmaw Castle
-Use the PDF to run the [[Cragmaw Castle]] encounter. Noone there wants to make peace. Also run the Hobgoblin Hunting Party encounter (Page 35) as they finally leave, since they left their cart and horses behind.
+Use the PDF to run the [[Cragmaw Castle]] encounter. Noone there wants to make peace. Also run the Hobgoblin Hunting Party encounter (Page 35) as they finally leave, since they left their cart and horses behind. To quickstart the encounter effectively, make them hear sudden fighting coming from the supposed tower with the royal room, right near their supposed exit.
+
+Upon reaching the chamber, they see [[King Grol]], [[Black Spider]], [[Aokiji]], [[Gundren Rockseeker]], and a Dire Wolf. The [[Black Spider]] goes first, striking at [[Aokiji]] with [[King Grol]] confused and warily guarding [[Gundren Rockseeker]] with his pet Dire Wolf. Upon seeing the party, and them being unable to deescalate thanks to [[Aokiji]]'s intervention, he sounds the alarm.
 
 [[Gundren Rockseeker]] should be kept alive at all costs, fudge numbers if you have to but make it seem close as fuck. He will be alive but incapacitated once they return to the cart, not requiring any additional aid at the time (DC 10 Medicine Check). This leaves them free to travel to anywhere they would like before returning to [[Phandalin]]. He will wake up after the first long rest the party has.
 

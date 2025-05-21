@@ -20,3 +20,9 @@ It is rumored that **MGs** utilizes their druidic power as a form of necromancy,
 It is also said that her quick wit, swordsmanship skills, and general skullduggery are derived from a childhood at sea, as when she does talk her accent is notably [[Moonshae Isles|Moonshae]]. A series of rumors depicting her as a child stowaway taken into a pirate crew circulate the [[Sword Coast]], and would explain her lack of official records.
 
 
+### Lord's Alliance
+It is rumored that the **Alliance** sends select members from its ranks out on clandestine missions with morally questionable goals and intentions. This rumor sits at a stark contrast to the organization's purpose of original creation, being to oppose the [[Zhentarim|Black Network]] who are openly known to do such things. Even to this day, the [[Zhentarim|Black Network]]'s usage of spies and assassins are openly criticized by many in the **Lord's Alliance**. 
+
+These rumors go so far as to link the recent passing of [[Open Lord Garakh Silverhand]], the founder of the **Lord's Alliance**, to an accident that occured while she undertook one of these missions. It doesn't help that her personal appointment for Lioncrown was none other than [[Sildar Hallwinter]], who is rumored to have an entirely different personality underneath his empathy. 
+
+Regardless, none of these clandestine missions have been publicized thus little weight can be given to the rumors.
