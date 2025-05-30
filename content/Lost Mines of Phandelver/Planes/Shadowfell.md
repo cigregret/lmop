@@ -5,7 +5,7 @@ tags:
 ---
 
 #### Overview
-A mirror of the [[Material Plane]], in contrast with the [[Feywilde]]. It is the transitory and final plane for mortal souls as they make their way to the [[City of Judgement]] in the [[Fugue]] demiplane. Therefore, the inhabitants of **Shadowfell** are rarely living, and those creatures who are animated are typically souls that escaped judgement and clung onto what little life force they had remaining. Very rarely do creatures exist that are  created as natural life. 
+A mirror of the [[Material Plane]], in stark contrast with the [[Feywilde]]. It is the transitory and final plane for mortal souls as they make their way to the [[City of Judgement]] in the [[Fugue]] demiplane. Therefore, the inhabitants of **Shadowfell** are rarely living, and those creatures who are animated are typically souls that escaped judgement and clung onto what little life force they had remaining. Very rarely do creatures exist that are  created as natural life. 
 
 Within the **Shadowfell**, there are many god-like beings and even actual gods. Notable ones are listed below, with their main role in parentheses:
 - [[Shar]] (Creator of the **Shadowfell**, Goddess of Darkness)

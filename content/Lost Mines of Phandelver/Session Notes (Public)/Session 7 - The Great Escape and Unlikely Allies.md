@@ -13,7 +13,7 @@ Present Members:
 
 
 ### Session Short Overview
-- 
+- After a daring escape from the castle, 
 
 
 

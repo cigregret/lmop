@@ -1,6 +1,6 @@
 ---
 title: Fugue
-draft: true
+draft: false
 tags:
 ---
 

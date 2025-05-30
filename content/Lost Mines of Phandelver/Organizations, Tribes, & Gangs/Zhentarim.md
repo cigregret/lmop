@@ -1,6 +1,6 @@
 ---
 title: Zhentarim
-draft: true
+draft: false
 tags:
 ---
 

@@ -16,7 +16,6 @@ While some of these cities and city-states hold more influence than others, the
 
 The **Alliance** has a hierarchy of roles, from general initiate to trusted advisor of each Alliance Leader. They are listed with short descriptions below, in order of lowest to highest:
 - Crow - Basic initiate, apprentice of someone ranked Stingblade or higher
-- Redcloak - Responsible member, given basic missions to complete solo/with other Redcloaks
 - Stingblade - Experienced member, given more complex missions and a Crow to train
 - Warduke - Veteran member, given difficult missions and tend to be publicly well-known
 - Lioncrown - Maximum 20 at a time; the Alliance Leaders, and their closest advisors.
@@ -24,7 +23,7 @@ The **Alliance** has a hierarchy of roles, from general initiate to trusted advi
 ### Alliance Leaders
 The current leaders of each city/region are listed below. 
 - Amphail: Lord Dauner Ilzimmer
-- [[Baldur's Gate]]: Grand Duke of Baldur's Gate and Marshal of the Flaming Fists Ulder Ravengard
+- [[Baldur's Gate]]: Grand Duke of Baldur's Gate and Marshal of the [[Flaming Fists]] Ulder Ravengard
 - Daggerford: Duchess Morwen Daggerford
 - Longsaddle: Dowell Harpell
 - Mithral Hall: Queen Dagnabbet Waybeard
@@ -34,18 +33,19 @@ The current leaders of each city/region are listed below.
 - [[Waterdeep]]: [[Open Lord Garakh Silverhand]]
 - Yartar: Waterbaron Nestra Ruthiol
 
+While the persons listed above rule the Alliance equally, there is a tendency to favor the word and instruction of [[Open Lord Garakh Silverhand]] since she is the sole founder of the organization.
 
 ### Other Notable Members
 Additional members of note refers solely to the Lioncrowns that are not the Alliance Leaders. They are listed next to their city/region below:
 - Amphali:
-- [[Baldur's Gate]]:
+- [[Baldur's Gate]]: Lioncrown and Vice Marshal of the [[Flaming Fists]] Nauveith Keenfinder
 - Daggerford:
 - Longsaddle:
 - Mithral Hall:
 - Mirabar:
-- [[Neverwinter]]:
+- [[Neverwinter]]: Lioncrown Dartes Neverember
 - Silverymoon:
-- [[Waterdeep]]: [[Sildar Hallwinter]]
+- [[Waterdeep]]: Lioncrown [[Sildar Hallwinter]]
 - Yartar: 
 
 ### Rumors
