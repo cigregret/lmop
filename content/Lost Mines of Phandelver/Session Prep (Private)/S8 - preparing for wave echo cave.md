@@ -27,7 +27,6 @@ gundren arrives
 	- as he leaves, sildar gives them several quests:
 		- an eccentric gnome historian has requested the party's assistance with investigating the town's museum after supposed hauntings and strange accidents have occurred
 		- a halfling farmer has reported that some of his cows have been acting strange lately, most notably with several in the herd turning jet black overnight
-		- 
 		- advises against returning to the feywilde since time passes differently and theres no knowing when they would return
 
 

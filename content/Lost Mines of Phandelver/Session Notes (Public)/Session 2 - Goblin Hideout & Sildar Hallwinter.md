@@ -19,7 +19,7 @@ Present Members:
 - [[Fry]] and [[Madame Wonder]] didn't notice until their purchase was complete and the fight had already started
 - Killed four [[Redbrands|Redbrand]] ruffians in the middle of the street
 - Briefly made their way around town to the [[Phandalin Townmaster's Hall]] and [[Shrine of Luck]]
-	- [[Phandalin Townmaster's Hall]] - party met [[Harbin Wester]], the pudgy human Townmaster, and were asked to take care of orcs further down the [[Triboar Trail]]. 
+	- [[Phandalin Townmaster's Hall]] - [[Phandalin Fellows]] met [[Harbin Wester]], the pudgy human Townmaster, and were asked to take care of orcs further down the [[Triboar Trail]]. 
 		- **100 gold each**
 	- [[Shrine of Luck]] - party met [[Sister Garaele]], an elf priestess, who asked them to find any information on a legendary spellbook. Pointed them in the direction of the banshee [[Agatha]], and gives them a silver jeweled comb to trade with her for information. 
 		- **Two potions of healing each, hinted at future requests of the party**
