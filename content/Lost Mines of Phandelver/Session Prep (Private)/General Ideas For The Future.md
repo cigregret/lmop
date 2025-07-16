@@ -17,7 +17,7 @@ short term: whenever MGs returns to the story, they can introduce the concept of
 - back to phandalin, then wave echo cave
 - "fight" black spider, she says things in line with the orcs' story and escapes as an automaton awakens
 #### Weathermon Fight
-full description: [[weathermon (not final)]]
+full description: [[Weatherblessed Tombguard]]
 - real boss is the keeper of the forge, an automaton that is basically weathermon
 		- phase 1: combat is fighter at appropriate level
 		- phase 2: summons a familiar, if the party lets them group up they get duo attacks
@@ -51,7 +51,7 @@ full description: [[weathermon (not final)]]
 - wonder -> SHADOWFELL RAHHHH (SLF CTHARNIDD RAHHHHHHHHHH)
 - archibald -> actually meet bahamut?
 - MGs -> mold fiend (nine hells?)
-- jalin -> ???
+- grok -> 
 
 
 ### General Plan: 

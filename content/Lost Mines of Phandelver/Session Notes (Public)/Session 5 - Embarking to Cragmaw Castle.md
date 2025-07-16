@@ -5,7 +5,7 @@ tags:
 ---
 
 IRL Date: May 13th, 2025
-In-Universe Date: Started Flamerule XX 1691, Ended Flamerule XX 1691
+In-Universe Date: Started Flamerule 23 1691, Ended Flamerule 26 1691
 Present Members:
 - [[Fry]]
 - [[Archibald]]

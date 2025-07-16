@@ -5,7 +5,7 @@ tags:
 ---
 
 IRL Date: May 1, 2025
-In-Universe Date: Flamerule XX, 1691
+In-Universe Date: Started Flamerule 21 1691, Ended Flamerule 21 1691
 Present Members:
 - [[Fry]]
 - [[Madame Wonder]]

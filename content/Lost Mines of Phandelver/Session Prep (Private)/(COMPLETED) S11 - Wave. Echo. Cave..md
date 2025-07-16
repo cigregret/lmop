@@ -1,0 +1,20 @@
+---
+title: S11 - Wave. Echo. Cave.
+draft: true
+tags:
+---
+### Pre-Cave Diving
+- sildar takes off the armor, and requests that the party meet him at the old Tresendar manor at their earliest convenience. he walks off, but not before pulling MGs and Shayla aside to remind them of their missions as given by open lord garakh silverhand.
+- alderleaf pushes grok to join the party, stating that he can always find another farmhand and that he is very replaceable. however, he thinks that maybe he'll be less replaceable in a band of misfits like this. maybe, he will become the hero he wants to so badly.
+- back to town, it is early evening on Midsummer Night's Eve. 
+	- **Phandalin is covered in decorations, and children are playing freely on the streets. Walking through, you see what appear to be members of noble houses mingling with the crowds, singing and dancing as the afternoon grows to evening. The flags of noble houses flutter as the light from the pale blue sky casts shadows onto the humble flattened dirt beneath your feet. Most of you have  only been here for two weeks at most;  However, this small town has offered an adventurer's thrill that most of you haven't experienced before. From weeding out the Redbrands and having to make deals with a nothic, to Wild Magic in the Feywild for some pho, and even having your fortunes read by an eldritch minded banshee. Your recent exploits to the Shadowfell have emboldened you all, yet there still is one mystery remaining; that of the Black Spider. Other than her supposed entourage of doppelgängers and her known identity of a drow, there is little in the way of what her goals are or how she orchestrated the events, yet you have sensed her touch everywhere you've been before. However, as you climb the hill that the Tresendar Manor ruins sit upon, you are reminded that this is not the time for questions. Sildar Hallwinter and Gundren Rockseeker are seated around a small campfire, and you smell roasted meat and strong mead. Now, is the time for planning and partying, as one could spend ages debating on what is ahead.** 
+- Gundren reminds his three on their mission and contract, as well as extending the offer to the rest of the party. since it will probably cause some conflict, he states that no contracts will be drawn up now- but in the event that this reclaiming is successful, he will write one up in less than a days time
+	- **Looking behind you, down at the small town of Phandalin lit by the wave of lanterns set out for the festival, you can see the sun setting over the Neverwinter Woods. The stars begin to twinkle, and you are reminded of the adventures the past two weeks have brought. Looking around at each other, you see your patrons and allies sitting beside you. Thinking back, despite how well you all work together under even the most frantic circumstances, this party was brought together by initial misfortune and begrudging compliance. While you certainly aren't family, you aren't necessarily enemies.  However, the approaching challenges will test your mettle as individuals, and as a party. As you head off to the cave, you are filled with the sense of uncertainty and pride, awaiting the tense meeting with your futures.**
+the party is rushed to the cave, and everyone is reminded of their individual quests as given to them by either gundren, lords alliance, or mr alderleaf
+- **The Tome, The Sword, The Mirror. All three do nothing except create horrors. Do not let the cultists win.  Your forest friends are in our hands.**
+- Gro Maglob - i do not like orckind
+
+### Finally... Wave Echo Cave
+run wave echo cave as prewritten
+
+**Make sure that testicle monster pulls the Saddam Hussein hiding spot!!!!! The testicle monster looks exactly like that penis monster from P5R (just google it, it's the penis monster). Testicle monster's final attack (like a super smash ultimate move) is that it heats up a shit ton and it's testicles drop to the ground and it uses that like a wrecking ball :)**
