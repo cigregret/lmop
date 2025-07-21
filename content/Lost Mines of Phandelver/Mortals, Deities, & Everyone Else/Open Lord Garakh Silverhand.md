@@ -1,9 +1,7 @@
 ---
 title: Open Lord Laeral Silverhand
-draft: true
+draft: false
 tags:
 ---
 
-**Deceased**
-
-The original founder of the [[Lord's Alliance]] and the [[Open Lord of Waterdeep]]. Reportedly passed away in her [[Waterdeep]] manor due to unknown reasons. A replacement for her positions within the [[Lord's Alliance]] and as the [[Open Lord of Waterdeep]] have not yet been issued.
+The original founder of the [[Lord's Alliance]] and the current [[Open Lord of Waterdeep]]. Heavily criticized for being a half-orc, as well as putting the business of the [[Lord's Alliance]] before the interests of [[Waterdeep]]. However, she has not been effectively challenged politically nor economically thus her position remains unchanged and her intentions the same.

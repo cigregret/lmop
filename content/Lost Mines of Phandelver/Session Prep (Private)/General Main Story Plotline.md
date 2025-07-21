@@ -1,11 +1,24 @@
 ---
-title: General Ideas For The Future
+title: General Main Story Plotline
 draft: true
 tags:
 ---
 
 short term: whenever MGs returns to the story, they can introduce the concept of the feywilde having different operations of time since they got sent several weeks into the future while Madame Wonder popped out on the same day.
 
+
+### Backstory Intersections Between characters: 
+- fry, shayla - moonshae isles
+- fry, archibald - bahamut
+- mgs, fry - dwarves, druids
+
+### General Places Everyone Should Go For Their Story:
+- fry -> moonshae isles, old druidic circle?
+- shayla -> waterdeep/moonshae isles
+- wonder -> SHADOWFELL RAHHHH (SLF CTHARNIDD RAHHHHHHHHHH)
+- archibald -> actually meet bahamut?
+- MGs -> mold fiend (nine hells?)
+- grok -> orcs
 
 ### Finishing LMOP+:
 - phandalin to thundertree
@@ -31,30 +44,21 @@ full description: [[Weatherblessed Tombguard]]
 - phandalin is now a megacapitalist city with large class divide, nothing like they remember
 	- some of their old friends are alive still
 		- gunther - owns the stonehill now, its on the bad side of town
-		- orcs - have their own neighborhood, on bad side of town. [[Luskan]] is nowhere to be seen.
+		- orcs - have their own neighborhood, on bad side of town. [[Jukha]] is nowhere to be seen.
 		- gundren - invites them back to the tresendar manor and offers to help them with whatever they need since theyre the reason hes this rich
 			- brags about being the monopoly man, make him insufferable
-			- shows them the now elderly doormat and droop
+			- shows them the now elderly doormat and droop who are his 
 				- maybe kill them for effect? and have gundren run them out of town since theyre now folk heroes that people wish to return and make things right again
 - all in all, the black spider and orcs were right; gundren did turn it into capitalist hellscape
+- chase sequence out of phandalin, separated from [[Sildar Hallwinter]] and [[Black Spider]]
+	- sildar yells that he will meet them in [[Waterdeep]], as he has to check on the recently deceased [[Open Lord Garakh Silverhand]] and the entire situation in [[Waterdeep]].
+	- [[Black Spider]] reminds them to seek the other remaining relic since they agreed to trade the Book for the Blade until both parties make it to the [[Moonshae Isles]]. 
+#### OFF TO WATERDEEP
+- remembering the words of the [[Black Spider]] and [[Sildar Hallwinter]], the party seeks out the druid circle of [[Kryptgarden Forest]] since they could have a lead on where the remaining relic was. 
+- find fry's master, who explains the prophecy:  the seal to the celestial plane must be reapplied every 1000 years by bringing the three relics to the Miaka-Elfu Cloister in the [[Moonshae Isles]]. 
 
 
-### Backstory Intersections Between characters: 
-- fry, shayla - moonshae isles
-- fry, archibald - bahamut
-- mgs, fry - dwarves, druids
-- 
-
-### General Places Everyone Should Go For Their Story:
-- fry -> moonshae isles, old druidic circle?
-- shayla -> waterdeep/moonshae isles
-- wonder -> SHADOWFELL RAHHHH (SLF CTHARNIDD RAHHHHHHHHHH)
-- archibald -> actually meet bahamut?
-- MGs -> mold fiend (nine hells?)
-- grok -> 
-
-
-### General Plan: 
+### General Mainstory Plotline: 
 - members of the druidic circle from fry's backstory (in the [[Kryptgarden Forest]]) come to phandalin to ask for the party's help
 	- tell them that they must appease Bahamut before he returns to graze the world anew in (X AMOUNT OF TIME)
 - his lair can be found in the moonshae isles
@@ -97,4 +101,6 @@ full description: [[Weatherblessed Tombguard]]
 	- regardless of how they enter, make it difficult as shit. mages, golems, shield guardians, FIREBALL, TIME STOP, COMMAND, POWER WORD
 	- just make it a multi day ordeal more than anything else. force them to use all the allies they can muster
 		- maybe a second ship departed with doormat, droop, and 
-- 
+
+
+### The Mystery Of Mortal Implosion
