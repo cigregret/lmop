@@ -3,5 +3,6 @@ title: King Grol
 draft: false
 tags:
 ---
+**Deceased**
 
-A bugbear who is king of the [[Cragmaw Tribe]], residing in [[Cragmaw Castle]]. Has strong ties to both the [[Redbrands]] and the [[Black Spider]]. 
+A bugbear who was king of the [[Cragmaw Tribe]], residing in [[Cragmaw Castle]]. Had strong ties to both the [[Redbrands]] and the [[Black Spider]]. 
