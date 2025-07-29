@@ -20,5 +20,3 @@ Present Members:
 
 
 ### Session Detailed Overview
-
-

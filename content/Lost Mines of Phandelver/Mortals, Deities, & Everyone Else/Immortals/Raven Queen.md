@@ -11,3 +11,8 @@ She is known as a mysterious, yet not inherently evil deity. She has been known 
 
 ### Hexblades
 Most notably, and best documented, she is or employs an impossibly talented blacksmith who is able to create weapons known as *Hexblades*. The forging processes are unknown, yet it is rumored that the souls of warlocks past who tried to break their contracts are turned into these weapons for warlocks future. Regardless, these weapons are impossibly rare and stronger than often imaginable. They will only react in the hands of one who has a pact with the **Raven Queen**, and are otherwise magically un-wieldable.
+
+
+### Portrait
+
+![[Raven Queen Portrait.png]]

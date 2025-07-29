@@ -29,3 +29,4 @@ Present Members:
 
 
 ### Anti-Bald's Warning
+"Oh you band of brave *dogs running in circles*... how I have come to truly know **hate** you. And know this, there will be death for your people. And there will be death for you. *An ending*, a curtain close at the hands of our legion. We will take this realm. We will take lives. We will take your lives. We will take, and as the Black Spider manipulates the ***disgusting*** body politic of the Sword Coast, you fumble around. I return now to the legion of the afterlife, taking rank amongst the dreaded shadows. Beware the inversion, resistors of death; as each of yours will arrive eventually."
