@@ -28,7 +28,7 @@ Present Members:
 - After winning the initial battle, the mysterious Fey announcer gives them the benefits of a long rest with only a touch, before disappearing as the second round begins. As the gate opens, a six-foot faerie dragon exits and the second round begins.
 - After being turned from a great badger into a chicken, forced to walk into a wall for ten seconds, fulfilling the urge of chucking a handaxe over the wall, landing a crucial eldritch blast, watching the dragon turn into a twenty-foot-long aberration, and holding their breath until they nearly passed out, they were somehow victorious.
 - The announcer reappeared as the gas settled, standing where the dragon was. He then cast planeshift to send them back to the [[Material Plane]], but not before stating the following:
-	- *"Should you wish to return and fight for rewards, you need only call my name: [[Cerise]], Ringleader of the [[Arena of Wild Magic]]. Call my name and I will arrive to whisk you away at a moments notice."*
+	- *"Should you wish to return and fight for rewards, you need only call my name: [[Cerise, The Prince of Fools]], Ringleader of the [[Arena of Wild Magic]]. Call my name and I will arrive to whisk you away at a moments notice."*
 - They then found themselves back in the woods, hours after they entered the Feywilde. They had herbs, brown mushrooms, and turkeys in hand, and thus decided to just head back to [[Gunther]]. After making their way back to the tavern, [[Gunther]] explains that he had food the whole time and just was playing a prank on them, before putting out two bowls of pho for them both.
 
 

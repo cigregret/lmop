@@ -3,6 +3,7 @@ title: Smoke
 draft: true
 tags:
 ---
+#### Overview
 Stands in Smoke (aka Smoke) is a tiger tabaxi that rules half the Waterdeep underworld, currently has the Glass. He knows its power, and seeks to guard it from the world to never be found again. However, he has lived for hundreds of years thanks to this artifact and will continue to do so, seeing it as the ultimate duty to protect Fae'run through these means.
 
 Throughout the years, Smoke has been at greatest odds with a Rakshasa known as Kite in the Fire (aka Kite), who rules the other half of Waterdeep underworld.

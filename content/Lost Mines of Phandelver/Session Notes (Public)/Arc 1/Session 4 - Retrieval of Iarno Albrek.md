@@ -14,13 +14,13 @@ Present Members:
 
 
 ### Session Short Overview
-- The party was able to successfully capture [[Iarno 'Glasstaff' Albrek]], and robbed his quarters, yet prior to leaving they were told of a messenger goblin who knows the location of [[Cragmaw Castle]]. [[Iarno 'Glasstaff' Albrek]] noted that three bugbears sent by the [[Black Spider]] were currently playing with the goblin as a toy.
+- The party was able to successfully capture [[Iarno 'Glasstaff' Albrek]], and robbed his quarters, yet prior to leaving they were told of a messenger goblin who knows the location of [[Cragmaw Castle]]. [[Iarno 'Glasstaff' Albrek]] noted that three bugbears sent by the [[Nezznar, The Black Spider]] were currently playing with the goblin as a toy.
 - [[Shayla]] and [[Madame Wonder]] decided to steal some of the dead [[Redbrands]]' leather and masquerade into the room with [[Iarno 'Glasstaff' Albrek]], using his authority to peacefully take the goblin away. As the conversation between the bugbears and [[Iarno 'Glasstaff' Albrek]] drew on, [[Shayla]] and [[Madame Wonder]] provoked the bugbears to a fighting competition, seemingly forgetting the purpose of their original mission.
 	- During the first round of this fight, which was [[Madame Wonder]] vs. Mosk the bugbear,[[Madame Wonder]] was incapacitated after one strong right hook from Mosk. Hearing the commotion and fearing for the worst, [[Fry]] and [[Archibald]] rushed into the room, exposing [[Iarno 'Glasstaff' Albrek]]'s capture and [[Madame Wonder]] + [[Shayla]]'s lies. After a brief 12 second fight, [[Madame Wonder]] and the goblin were resuscitated and the bugbears killed.
 		- [[Archibald]] claimed Mosk's weapon, a 40lbs. greatsword, as his own.
 		- [[Shayla]] claimed Mosk's gem-studded eyepatch as her own
 - Afterwards, they took [[Iarno 'Glasstaff' Albrek]] and the goblin, named [[Droop]], outside the hideout and back into town. As they met up with [[Doormat]] and arrived outside the [[Phandalin Townmaster's Hall]], [[Iarno 'Glasstaff' Albrek]] confided that he would not continue his life after the next few minutes. He had learned earlier that [[Sildar Hallwinter|Sildar the Chosen]] was the one sent after him, and relinquished several items and pieces of information to the party, yet told them to withhold it from [[Sildar Hallwinter]]:
-	- The [[Black Spider]] is a female drow
+	- The [[Nezznar, The Black Spider]] is a female drow
 	- She already knows the location of [[Wave Echo Cave]] and now looks only to keep it a secret
 	- She is after the [[Forge of Spells]], which has the potential to produce enough magic weapons for several legions
 	- [[Madame Wonder]] was given [[Iarno 'Glasstaff' Albrek]]'s staff of defense that he was nicknamed after

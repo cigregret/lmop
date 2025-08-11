@@ -6,7 +6,7 @@ tags:
 Real Name: **Nezznar**
 
 ### Overview
-
+A rougeish drow with strong connections to the Shadowfell, yet supposedly hailing from the Feywilde. Only around 100 years old in physical age, Nezznar's history on the [[Material Plane]] begins and largely centers around [[Wave Echo Cave]] and the [[Sword Mountains]]. Not much else is known, besides that they are a member of the [[Zhentarim]] alongside [[Jukha]] and [[Gunther]]. They also seem to have some ability to overcome death, or at least delay it in herself and her few allies.
 
 
 ### Outdated Information

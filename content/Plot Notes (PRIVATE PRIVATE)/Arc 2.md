@@ -15,11 +15,11 @@ tags:
 	- eventually he explains that he cannot let them leave alive since they are heroes of legend, returned in the flesh and their mere existence would disrupt the class system he has so delicately put in place
 - get chased out of phandalin by his private militia (if they try to fight then just keep having more and more reinforcements arrive and have black spider/sildar tell them that WE need to LEAVE... NOW)
 	- the fellas are like folk heroes, and many citizens of lower classes pray for them to return and set things right again
-- during chase sequence out of phandalin, separated from [[Sildar Hallwinter]], [[Black Spider]], [[Jukha]].
+- during chase sequence out of phandalin, separated from [[Sildar Hallwinter]], [[Nezznar, The Black Spider]], [[Jukha]].
 	- sildar yells that he will meet them in [[Waterdeep]], as he has to check on the recently deceased [[Open Lord Garakh Silverhand]] and the entire situation in [[Waterdeep]].
-	- [[Black Spider]] reminds them to seek the other remaining relic since they agreed to trade the Book for the Blade until both parties make it to the [[Moonshae Isles]]. states that the book will bring them back together eventually
+	- [[Nezznar, The Black Spider]] reminds them to seek the other remaining relic since they agreed to trade the Book for the Blade until both parties make it to the [[Moonshae Isles]]. states that the book will bring them back together eventually
 	- [[Jukha]] says that he await them in [[Waterdeep]], where he will try to find an "old friend" who might be able to help them
-- remembering the words of the [[Black Spider]] and [[Sildar Hallwinter]], the party seeks out the druid circle of [[Kryptgarden Forest]] while on the way to [[Waterdeep]] since they could have a lead on where the remaining relic was.
+- remembering the words of the [[Nezznar, The Black Spider]] and [[Sildar Hallwinter]], the party seeks out the druid circle of [[Kryptgarden Forest]] while on the way to [[Waterdeep]] since they could have a lead on where the remaining relic was.
 
 
 

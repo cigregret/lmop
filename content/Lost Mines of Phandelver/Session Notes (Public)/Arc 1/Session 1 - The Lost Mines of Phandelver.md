@@ -18,7 +18,7 @@ A powerful force of orcs reinforced by evil mercenary wizards attacked [[Wave Ec
 
 For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around [[Phandalin]], but no one has ever succeeded in locating the lost mine. In recent years, people have resettled the area. [[Phandalin]] is now a rough-and-tumble frontier town. More important, the [[Rockseeker Brothers]] have discovered the entrance to [[Wave Echo Cave]], and they intend to reopen the mines.
 
-Unfortunately for the [[Rockseeker Brothers|Rockseekers]], they are not the only ones interested in [[Wave Echo Cave]]. A mysterious villain known as the [[Black Spider]] controls a network of bandit gangs and goblin tribes in the area, and their agents have followed the [[Rockseeker Brothers|Rockseekers]] to their prize. Now the [[Black Spider]] wants [[Wave Echo Cave]] for themself, and they are taking steps to make sure no one else knows where it is.
+Unfortunately for the [[Rockseeker Brothers|Rockseekers]], they are not the only ones interested in [[Wave Echo Cave]]. A mysterious villain known as the [[Nezznar, The Black Spider]] controls a network of bandit gangs and goblin tribes in the area, and their agents have followed the [[Rockseeker Brothers|Rockseekers]] to their prize. Now the [[Nezznar, The Black Spider]] wants [[Wave Echo Cave]] for themself, and they are taking steps to make sure no one else knows where it is.
 
 
 ### Session Short Overview

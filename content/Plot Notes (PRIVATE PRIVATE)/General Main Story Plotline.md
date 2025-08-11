@@ -50,11 +50,11 @@ full description: [[Weatherblessed Tombguard]]
 			- shows them the now elderly doormat and droop who are his 
 				- maybe kill them for effect? and have gundren run them out of town since theyre now folk heroes that people wish to return and make things right again
 - all in all, the black spider and orcs were right; gundren did turn it into capitalist hellscape
-- chase sequence out of phandalin, separated from [[Sildar Hallwinter]] and [[Black Spider]]
+- chase sequence out of phandalin, separated from [[Sildar Hallwinter]] and [[Nezznar, The Black Spider]]
 	- sildar yells that he will meet them in [[Waterdeep]], as he has to check on the recently deceased [[Open Lord Garakh Silverhand]] and the entire situation in [[Waterdeep]].
-	- [[Black Spider]] reminds them to seek the other remaining relic since they agreed to trade the Book for the Blade until both parties make it to the [[Moonshae Isles]]. 
+	- [[Nezznar, The Black Spider]] reminds them to seek the other remaining relic since they agreed to trade the Book for the Blade until both parties make it to the [[Moonshae Isles]]. 
 #### OFF TO WATERDEEP
-- remembering the words of the [[Black Spider]] and [[Sildar Hallwinter]], the party seeks out the druid circle of [[Kryptgarden Forest]] since they could have a lead on where the remaining relic was. 
+- remembering the words of the [[Nezznar, The Black Spider]] and [[Sildar Hallwinter]], the party seeks out the druid circle of [[Kryptgarden Forest]] since they could have a lead on where the remaining relic was. 
 - find fry's master, who explains the prophecy:  the seal to the celestial plane must be reapplied every 1000 years by bringing the three relics to the Miaka-Elfu Cloister in the [[Moonshae Isles]]. 
 
 
@@ -103,4 +103,6 @@ full description: [[Weatherblessed Tombguard]]
 		- maybe a second ship departed with doormat, droop, and 
 
 
-### The Mystery Of Mortal Implosion
+### The Mystery Of The Dopplegangers
+- [[Insects of Feyfell]] are the physical cause, but it is the [[Raven Queen]] herself that enlists these dopplegangers to utilize her collection of the bugs to take over the [[Material Plane]] as her own domain. 
+	- She just wants to be able to live as a mortal, after millenia stuck as the anchor being for the [[Shadowfell]]. All of her contracts exist to further this goal, or to attempt to give her some form of mortal pleasure (i.e. the [[Le Detachement De Gourmets]] being tasked only to give her a meal that she can taste in exchange for a bit of her power and immortality as vampires)
